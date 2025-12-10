@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my ACTIVITIES are available at https://github.com/Guarincpe/CPE009_GUARIN/blob/main/CPE009%20ACTIVITIES
 
-- 👨‍💻 All of my PROJECTS are available at https://github.com/Guarincpe/CPE009_GUARIN/blob/main/CPE009%20ACTIVITIES
+- 👨‍💻 All of my PROJECTS are available at https://github.com/Guarincpe/CPE009_GUARIN/blob/main/CPE009%20PROJECTS
 
 - 📫 How to reach me **cabanlitmikaela0918@gmail.com**
 
