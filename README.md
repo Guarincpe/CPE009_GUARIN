@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Object Oriented Programming**
 
-- 👨‍💻 All of my ACTIVITIES are available at https://github.com/Guarincpe/CPE009_GUARIN/blob/main/CPE009%20ACTIVITIES
+- 🧑‍💻 All of my ACTIVITIES are available at [CPE009 ACTIVITIES](CPE009%20ACTIVITIES/)
 
-- 👨‍💻 All of my PROJECTS are available at https://github.com/Guarincpe/CPE009_GUARIN/blob/main/CPE009%20PROJECTS
+- 🧑‍💻 All of my PROJECTS are available at [CPE009 PROJECTS](CPE009%20PROJECTS/)
 
 - 📫 How to reach me **cabanlitmikaela0918@gmail.com**
 
