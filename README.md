@@ -19,5 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guarincpe&" alt="guarincpe" /></p>
 
-![Alt Text] (https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F59250551335702168%2F&ved=0CBUQjRxqFwoTCNjW0bLCspEDFQAAAAAdAAAAABA9&opi=89978449)
+![Alt Text] (https://i.pinimg.com/originals/a0/02/a3/a002a3e51a2adc85d6c0a4684892e743.gif)
 
