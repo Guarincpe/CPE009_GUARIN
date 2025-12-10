@@ -33,13 +33,6 @@
 
 ---
 
-## ✨ Cute GIF Section  
-<p align="center">
-  <img src="https://i.imgur.com/Ny0p6.gif" width="200px">
-</p>
-
----
-
 ## 📊 GitHub Activity  
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Guarincpe&show_icons=true&theme=tokyonight" />
@@ -51,3 +44,7 @@
 ## 🎀 Profile Views (ACCURATE)  
 <img src="https://komarev.com/ghpvc/?username=Guarincpe&style=for-the-badge&color=pink" />
 
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTRka3dwMnltZHcwY2QwOXNnbjN2dWtnZ2NsaHNhNDQyMnYybndyZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JQYUTo8eICIdK0c6nL/giphy.gif" width="300px" />
+</p>
