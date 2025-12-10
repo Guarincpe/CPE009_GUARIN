@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Object Oriented Programming**
 
-- 🧑‍💻 All of my ACTIVITIES are available at [CPE009 ACTIVITIES](CPE009%20ACTIVITIES/)
+- 🧑‍💻 All of my ACTIVITIES are available at [CPE 009 ACTIVITIES](CPE009%20ACTIVITIES/)
 
 - 🧑‍💻 All of my PROJECTS are available at [CPE009 PROJECTS](CPE009%20PROJECTS/)
 
