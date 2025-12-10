@@ -33,10 +33,11 @@
 
 ---
 
-## 📊 GitHub Activity  
+## 🔥 GitHub Streak
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Guarincpe&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guarincpe&layout=compact&theme=tokyonight" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Guarincpe" />
+  </a>
 </p>
 
 ---
