@@ -15,19 +15,15 @@
 
 ---
 
-## 📂 My CPE009 Work
+[![Activities](https://img.shields.io/badge/CPE009_ACTIVITIES-blue?style=for-the-badge)](https://github.com/Guarincpe/CPE009_GUARIN/tree/main/CPE009%20ACTIVITIES)
 
-### 📘 **Activities**  
-👉 https://github.com/Guarincpe/CPE009_GUARIN/tree/main/CPE009%20ACTIVITIES
-
-### 🗂️ **Projects**  
-👉 https://github.com/Guarincpe/CPE009_GUARIN/tree/main/CPE009%20PROJECTS
+[![Projects](https://img.shields.io/badge/CPE009_PROJECTS-pink?style=for-the-badge)](https://github.com/Guarincpe/CPE009_GUARIN/tree/main/CPE009%20PROJECTS)
 
 ---
 
 ## 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,github,git,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=github,python,cpp" />
 </p>
 
 ---
