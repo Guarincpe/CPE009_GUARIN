@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guarincpe&label=Profile%20views&color=0e75b6&style=flat" alt="guarincpe" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Guarincpe/CPE201A_FP_GUARIN/tree/8d6572416117413ada9d56832c5f1ce5d2d3b381/CPE009A_ACTIVITIES%20](https://github.com/Guarincpe/CPE201A_FP_GUARIN/tree/8d6572416117413ada9d56832c5f1ce5d2d3b381/CPE009A_ACTIVITIES%20)
-
+- 👨‍💻 All of my projects are available at https://github.com/Guarincpe/CPE009_GUARIN/tree/main?tab=readme-ov-file
 - 📫 How to reach me **qjmguarin@tip.edu.ph**
 
 <h3 align="left">Connect with me:</h3>
