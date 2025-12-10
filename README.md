@@ -19,5 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guarincpe&" alt="guarincpe" /></p>
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFqaDBnemVoNGJiOG90bXVjYXN1ZTJ1MXB4bzF2YjZsY3RnNGQwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tk8cksLHlE7Gpo5lSI/giphy.gif(
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFqaDBnemVoNGJiOG90bXVjYXN1ZTJ1MXB4bzF2YjZsY3RnNGQwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tk8cksLHlE7Gpo5lSI/giphy.gif)
 
