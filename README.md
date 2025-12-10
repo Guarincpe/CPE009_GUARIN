@@ -1,31 +1,68 @@
-<h1 align="center">Hi 👋, I'm Jan Mikaela C. Guarin</h1>
-<h3 align="center">I'm a 1st yr. student of Bachelor of Science in Computer Engineering</h3>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/3ZQ3Z4b.gif" width="120px">
+</p>
+
+<h1 align="center">Hi 👋, I'm <strong>Jan Mikaela C. Guarin</strong></h1>
+<h3 align="center">1st Year BS Computer Engineering Student</h3>
+
+---
+
+## 🌱 Currently Learning  
+- 🌿 **Object-Oriented Programming (OOP)**
+- 🎯 Building my foundation in **Python | C | Java**
+- ⚙️ Exploring **Git, GitHub, and Development Workflows**
+
+---
+
+## 📂 Projects & Activities  
+📁 **All My CPE009 Projects**  
+👉 [View Projects Here](https://github.com/YOUR-REPO-LINK)
+
+📁 **All My CPE009 Activities**  
+👉 [View Activities Here](https://github.com/YOUR-REPO-LINK)
+
+---
+
+## 📫 How to Reach Me  
+📧 Email: **cabanlitmikaela0918@gmail.com**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=guarincpe&label=Profile%20views&color=0e75b6&style=flat" alt="guarincpe" />
+  <a href="https://facebook.com/YOUR PROFILE"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/YOUR PROFILE"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/YOUR GITHUB"><img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-- 🌱 I’m currently learning **Object Oriented Programming**
-- 👨‍💻 All of my PROJECTS are available at **[CPE009 PROJECTS](CPE009%20PROJECTS)**
-- 👨‍💻 All of my ACTIVITIES are available at **[CPE009 ACTIVITIES](CPE009%20ACTIVITIES)**
-- 📫 How to reach me **cabanlitmikaela0918@gmail.com**
+---
 
-<!-- Top Languages -->
+## 🧰 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guarincpe&show_icons=true&locale=en&layout=compact" alt="guarincpe" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,github,git,vscode,html,css" />
 </p>
 
-<!-- GitHub Stats -->
+---
+
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guarincpe&show_icons=true&locale=en" alt="guarincpe" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
-<!-- GitHub Streak -->
+---
+
+## ✨ Fun GIF Section  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guarincpe" alt="guarincpe" />
+  <img src="https://i.imgur.com/Ny0p6.gif" width="200px">
 </p>
 
-<!-- GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/tk8cksLHlE7Gpo5lSI/giphy.gif" width="350"/>
-</p>
+---
+
+## 📝 About Me (Short & Cute)
+> 🌸 I’m an aspiring engineer who’s passionate about tech, designing, and solving problems.  
+> 💡 I love learning new things and building simple but meaningful projects.  
+> 🚀 My goal is to become a skilled and confident developer.
+
+---
+
+## 🎀 Profile Views  
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=blue" />
