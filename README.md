@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Object Oriented Programming**
 - 👨‍💻 All of my PROJECTS are available at  
-  [CPE009A PROJECTS](
+  [CPE009A PROJECTS](CPE009%20PROJECTS)
 - 👨‍💻 All of my ACTIVITIES are available at [CPE009 ACTIVITIES](CPE009%20ACTIVITIES)   
 - 📫 How to reach me **cabanlitmikaela0918@gmail.com**
 
