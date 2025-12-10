@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="IMAGE_LINK" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGwwNDBneTlxd2xob3dkMHA4bW9yODhpbHppaHV6c2JiZ3E0Ym91bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/bqplVn8Ei3Cbz4DlFr/giphy.gif" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm <strong>Jan Mikaela C. Guarin</strong></h1>
 <h3 align="center">1st Year • Bachelor of Science in Computer Engineering</h3>
